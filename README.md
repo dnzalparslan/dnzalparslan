@@ -8,6 +8,6 @@ Outside of computer science, I'm a member of the University of Rochester women's
 
 ### Featured Project
 
-**Circle Rotation Demo** — An application that connects a networking library with a Spring Boot backend and React frontend, demonstrating how different components work together.
+**[Circle Rotation Control System — Start Here](https://github.com/dnzalparslan/circle-react-ui)**
 
-I'm continuing to develop my technical skills while exploring how thoughtful software and product decisions can create meaningful experiences for users.
+A full-stack application connecting a React web interface, Spring Boot backend, Java Swing desktop application, and reusable Java networking library.
